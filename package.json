@@ -1,0 +1,24 @@
+{
+  "name": "hexlet-autotests",
+  "version": "1.0.0",
+  "description": "Autotests for my self-study",
+  "main": "./src/capitalize.js",
+  "directories": {
+    "src": "src",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node ./tests/capitalize.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadyKamenskaya/hexlet-autotests.git"
+  },
+  "author": "Nady Kamenskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadyKamenskaya/hexlet-autotests/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/NadyKamenskaya/hexlet-autotests#readme"
+}
